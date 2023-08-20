@@ -1,5 +1,0 @@
-{{#user}}
-Name: Saurabh
-Skills: HTML, CSS, JS, Next.js
-Email: saurabhyd1210@gmail.com
-{{/user}}
